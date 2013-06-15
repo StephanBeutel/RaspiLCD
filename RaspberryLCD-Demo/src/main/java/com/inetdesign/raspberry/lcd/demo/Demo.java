@@ -40,16 +40,7 @@ public class Demo {
 
 			@Override
 			public void centerButtonPressed() {
-				// lcd.toggleBacklicht();
-				running = false;
-				try {
-					Thread.sleep(300);
-				} catch (InterruptedException e) {
-					e.printStackTrace();
-				}
-
-				running = true;
-				setImage(lcd);
+				lcd.toggleBacklicht();
 
 			}
 
