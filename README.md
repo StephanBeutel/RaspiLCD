@@ -9,7 +9,7 @@ Based on the original C-Code from Emsystech: http://www.emsystech.de/produkt/ras
 
 Requirements:
 =============
-- Raspberry Pi hardware with LCD display from Emsystech.
+- Raspberry Pi hardware with LCD display from Emsystech and Debian Linux.
 - Java JDK 1.7.x+
 - Maven 3
 - GCC compiler
