@@ -23,6 +23,7 @@ Instructions:
 4. Change directory to RaspiLCD/RaspberryLCD-Library
 5. Use Maven to build the Java library 'mvn clean install'
 
+6. To start the demo project please take a look at the run.sh script in the demo project folder and change the path to the folder the library is included.
 6. Take a look into the Demo project how to use the library in your project.
 
 
