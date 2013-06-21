@@ -8,7 +8,7 @@ Library to access the LCD display from EmSysTech from a Java programm.
 Based on the original C-Code from Emsystech: http://www.emsystech.de/produkt/raspi-lcd/
 
 If you have any problems feel free to ask in the usergroup at googlegroups:
-https://groups.google.com/forum/?hl=de#!forum/raspilcd
+http://groups.google.com/group/raspilcd
 
 Requirements:
 =============
